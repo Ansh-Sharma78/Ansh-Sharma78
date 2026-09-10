@@ -37,17 +37,8 @@
 
 ## 🎯 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Ansh-Sharma78/CampusKart"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Ansh-Sharma78/InterviewIQ"></a>
-</p>
-
-> 🔐 **CampusKart** — student marketplace with JWT auth built from scratch (refresh token rotation, Spring Security 6)
-> 🤖 **InterviewIQ** — AI interview coach on Spring AI, running a self-hosted Llama 3.1 via Ollama
-
----
+🔗 <a href="https://github.com/Ansh-Sharma78/CampusKart"><b>CampusKart</b></a> — Student-only campus marketplace with JWT auth built from scratch (refresh token rotation, Spring Security 6).
+🔗 <a href="https://github.com/Ansh-Sharma78/InterviewIQ"><b>InterviewIQ</b></a> — AI interview coach on Spring AI, running a self-hosted Llama 3.1 via Ollama.
 
 ## 💻 Tech Stack
 
