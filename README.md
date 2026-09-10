@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=A855F7&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ansh-Sharma78&label=Profile%20Views&color=A855F7&style=flat" alt="Profile views" />
 </p>
 
 ---
