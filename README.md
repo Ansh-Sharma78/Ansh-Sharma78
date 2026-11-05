@@ -74,10 +74,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ansh-Sharma78&show_icons=true&theme=radical&hide_border=false" height="165" /> <img src="https://streak-stats.demolab.com/?user=Ansh-Sharma78&theme=radical&hide_border=false" height="165" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Sharma78&layout=compact&theme=radical&hide_border=false" /> </p>
-
----
 
 <p align="center"><i>⭐️ Thanks for stopping by!</i></p>
